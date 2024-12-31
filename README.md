@@ -2,12 +2,21 @@
 
 🌟 Desenvolvedora em formação, comprometida com o aprendizado contínuo!
 
-<div style="display: flex; justify-content: center; align-items: flex-start; width: 100%; flex-wrap: wrap;">
+<div dir="auto">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Silmaravv&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"
-    style="width: 48%; margin: 5px; box-sizing: border-box; max-width: 48%; object-fit: contain;"
+    height="180em"
+    style="max-width: 100%;"
     alt="Estatísticas do GitHub"
   />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Silmaravv&theme=tokyonight&hide_border=false"
+    height="180em"
+    style="max-width: 100%;"
+    alt="Streak do GitHub"
+  />
+</div>
+
 
 💻 Atualmente, estou no 2º semestre de Tecnologia em Análise e Desenvolvimento de Sistemas, aprimorando minhas habilidades em Java, Python e MySQL. Também me aventuro no design de interfaces com Figma, criando soluções focadas em usabilidade e experiência do usuário (UX).
 
@@ -21,12 +30,8 @@
 🚀 Faço parte do grupo de mentoria da Tipscode, onde contribuo com conteúdos de tecnologia, apoio o desenvolvimento de projetos e compartilho conhecimentos adquiridos ao longo da minha jornada profissional.
 
 
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Silmaravv&theme=tokyonight&hide_border=false"
-    style="width: 48%; margin: 5px; box-sizing: border-box; max-width: 48%; object-fit: contain;"
-    alt="Streak do GitHub"
-  />
-</div>
+
+
 
 
 
