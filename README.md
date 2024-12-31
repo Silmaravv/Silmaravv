@@ -9,7 +9,7 @@
 <div style="display: flex; justify-content: center; align-items: flex-start; width: 100%; height: 300px;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Silmaravv&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"
-    style="width: 50.6%; margin: 5px; height: 100%; box-sizing: border-box; object-fit: contain;"
+    style="width: 50.9%; margin: 5px; height: 100%; box-sizing: border-box; object-fit: contain;"
     alt="Estatísticas do GitHub"
   />
   <img
