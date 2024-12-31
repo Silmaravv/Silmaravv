@@ -5,12 +5,12 @@
 <div dir="auto" style="display: flex; justify-content: space-between; align-items: center;">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Silmaravv&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"
-    height="180em"  style="max-width: 100%;"
+    height="180em"  style="max-width: 45%;"
     alt="Estatísticas do GitHub"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Silmaravv&theme=tokyonight&hide_border=false"
-    height="180em"  style="max-width: 100%;"
+    height="180em"  style="max-width: 48%;"
     alt="Streak do GitHub"
   />
 </div>
