@@ -8,7 +8,7 @@
 </div>
 
 
-💻 Atualmente, estou no 2º semestre de Tecnologia em Análise e Desenvolvimento de Sistemas, aprimorando minhas habilidades em Java, Python e MySQL. Também me aventuro no design de interfaces com Figma, criando soluções focadas em usabilidade e experiência do usuário (UX).
+💻 Atualmente, estou no 3º semestre de Tecnologia em Análise e Desenvolvimento de Sistemas, aprimorando minhas habilidades em Java, Python e MySQL. Também me aventuro no design de interfaces com Figma, criando soluções focadas em usabilidade e experiência do usuário (UX).
 
 <div style="display: flex; justify-content: space-between;">
   
